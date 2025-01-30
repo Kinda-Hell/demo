@@ -1,3 +1,3 @@
 # demo
 First Git Repository.
-Author - Helly
+Author - Hell[Gravity Falls]
